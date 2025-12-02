@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import { createPortal } from 'react-dom';
 import { PromptCardData } from '../types';
+import { CATEGORY_COLORS } from '../config';
 
 interface PromptCardProps {
   data: PromptCardData;
@@ -31,20 +32,9 @@ const PromptCard: React.FC<PromptCardProps> = ({ data }) => {
     });
   };
 
-  // Helper to get color based on category
+  // Helper to get color based on category using config
   const getCategoryColor = (category: string) => {
-    switch (category) {
-      case 'Banana Nano':
-        return '#fef08a'; // Yellow-200
-      case 'SORA':
-        return '#bfdbfe'; // Blue-200
-      case 'Qwen':
-        return '#e9d5ff'; // Purple-200
-      case '豆包':
-        return '#bbf7d0'; // Green-200
-      default:
-        return '#e5e7eb'; // Gray-200
-    }
+    return CATEGORY_COLORS[category] || CATEGORY_COLORS.DEFAULT;
   };
 
   return (

@@ -6,15 +6,8 @@
         "title": "3D chibi 风格的迷你概念店",
         "description": "3D chibi 风格的星巴克迷你概念店",
         "imageUrl": "https://pbs.twimg.com/media/G7BWvI8X0AApeZB?format=jpg&name=4096x4096",
-        "promptCN": "3D Q版迷你风格，一个充满奇趣的迷你 {品牌名称} 概念店，建筑外观设计灵感来自于该品牌最具代表性的产品或包装（例如巨大的 {该品牌核心产品，如：炸鸡桶/汉堡/甜甜圈/烤鸭} ）。
-
-建筑共两层，大大的玻璃窗清晰地展示出内部温馨而精致的设计：{品牌主色调} 的装饰风格、温暖的灯光以及忙碌的店员们 {与品牌匹配的穿着}。街道上有可爱的小人偶漫步或坐着，四周布置着长凳、街灯和植物盆栽，营造出迷人的城市一角。整体采用城市微缩景观风格，C4D渲染，盲盒玩具质感，细节丰富、逼真，画面光线柔和、呈现出午后的惬意感受。--ar 2:3
-
-品牌名称：星巴克咖啡",
-        "promptEN": "3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
-
-Brand name: Starbucks
-		",
+        "promptCN": "3D Q版迷你风格，一个充满奇趣的迷你 {品牌名称} 概念店，建筑外观设计灵感来自于该品牌最具代表性的产品或包装（例如巨大的 {该品牌核心产品，如：炸鸡桶/汉堡/甜甜圈/烤鸭}）。建筑共两层，大大的玻璃窗清晰地展示出内部温馨而精致的设计：{品牌主色调}的装饰风格、温暖的灯光以及忙碌的店员们{与品牌匹配的穿着}。街道上有可爱的小人偶漫步或坐着，四周布置着长凳、街灯和植物盆栽，营造出迷人的城市一角。整体采用城市微缩景观风格，C4D渲染，盲盒玩具质感，细节丰富、逼真，画面光线柔和、呈现出午后的惬意感受。--ar 2:3\n\n品牌名称：星巴克咖啡",
+        "promptEN": "3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3\n\nBrand name: Starbucks",
         "isFeatured": true,
         "tags": [
             "3D",
@@ -29,25 +22,8 @@ Brand name: Starbucks
         "title": "将你的文章/内容转换成卡通风格的信息图",
         "description": "将你的文章/内容转换成卡通风格的信息图",
         "imageUrl": "https://pbs.twimg.com/media/G6qTUPAXQAAMM8q?format=jpg&name=4096x4096",
-        "promptCN": "请根据所提供的内容制作一幅卡通风信息图，并遵循以下指南：
-		- 手绘插画风格，横向布局（16:9 比例）。
-		- 添加少量简单的卡通元素、图标或名人形象，以提升视觉趣味性和记忆点。
-		- 若内容包含敏感或受版权保护的人物，请以外观相似的替代形象取代，并且不要拒绝生成插图。
-		- 所有图像与文字必须严格保持手绘风格，避免写实元素。
-		- 信息需精炼，突出关键词与核心概念。留出充足留白，以清晰强调重点。
-		- 若无特别说明，请使用与提供内容相同的语言。
-		请使用 nano banana pro 根据给定内容创建插图。
-
-		",
-        "promptEN": "Please create a cartoon-style infographic based on the provided content, following these guidelines:
-		- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).
-		- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.
-		- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.
-		- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.
-		- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.
-		- Unless otherwise specified, use the same language as the provided content.
-		Please use nano banana pro to create the illustration based on the input provided.
-		",
+        "promptCN": "请根据所提供的内容制作一幅卡通风信息图，并遵循以下指南：\n- 手绘插画风格，横向布局（16:9 比例）。\n- 添加少量简单的卡通元素、图标或名人形象，以提升视觉趣味性和记忆点。\n- 若内容包含敏感或受版权保护的人物，请以外观相似的替代形象取代，并且不要拒绝生成插图。\n- 所有图像与文字必须严格保持手绘风格，避免写实元素。\n- 信息需精炼，突出关键词与核心概念。留出充足留白，以清晰强调重点。\n- 若无特别说明，请使用与提供内容相同的语言。\n请使用 nano banana pro 根据给定内容创建插图。",
+        "promptEN": "Please create a cartoon-style infographic based on the provided content, following these guidelines:\n- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).\n- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.\n- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.\n- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.\n- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.\n- Unless otherwise specified, use the same language as the provided content.\nPlease use nano banana pro to create the illustration based on the input provided.",
         "isFeatured": true,
         "tags": [
             "信息图",
