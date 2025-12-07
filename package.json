@@ -1,20 +1,35 @@
 {
-  "name": "提示词web页面",
+  "name": "AI Prompts",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:dev": "vite --mode dev",
+    "dev:sit": "vite --mode sit",
+    "dev:uat": "vite --mode uat",
     "build": "vite build",
-    "preview": "vite preview"
+    "build:dev": "vite build --mode dev",
+    "build:sit": "vite build --mode sit",
+    "build:uat": "vite build --mode uat",
+    "preview": "vite preview",
+    "preview:dev": "vite preview --mode dev",
+    "preview:sit": "vite preview --mode sit",
+    "preview:uat": "vite preview --mode uat"
   },
   "dependencies": {
-    "react-dom": "^19.2.0",
-    "react": "^19.2.0"
+    "@fontsource/noto-sans-sc": "^5.1.0",
+    "echarts": "^6.0.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "react-router-dom": "^6.26.2"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@vitejs/plugin-react": "^5.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.13",
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }

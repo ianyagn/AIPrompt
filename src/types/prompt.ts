@@ -1,4 +1,3 @@
-
 export interface PromptCardData {
   id: string;
   author: string;
@@ -13,4 +12,5 @@ export interface PromptCardData {
   tags?: string[];
   likes?: number;
   category: string;
+  isDeleted?: number;
 }
